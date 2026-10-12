@@ -239,4 +239,4 @@ This repository serves as the official landing page for Freemore Video to GIF Co
 **Get the most recent version of Freemore Video to GIF Converter today!**
 
 ---
-**Last updated:** 2026-10-11 23:14:18 UTC
+**Last updated:** 2026-10-12 02:42:49 UTC
